@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopaholic/menu.dart';
+import 'package:shopaholic/screens/menu.dart';
 
 void main() {
   runApp(const MyApp());
