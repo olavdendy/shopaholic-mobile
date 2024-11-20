@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:shopaholic/widgets/left_drawer.dart';
-import 'package:shopaholic/widgets/product_card.dart';
 import 'package:shopaholic/screens/productentry_form.dart';
 
 class MyHomePage extends StatelessWidget {
